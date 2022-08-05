@@ -153,6 +153,17 @@
         "hungry"
       ],
       "id": "15"
+    },
+    {
+      "name": "Doofus",
+      "species": "Idiot",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "anxious"
+      ],
+      "id": "16"
     }
   ]
 }
